@@ -1,11 +1,11 @@
-<h1 align="centre">DAISYXMUSIC V5.5 🎵</h1> 
+<h1 align="centre">Walker Musicbot V5.5 🎵</h1> 
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
+### Available on telegram as [@thevcmusicplayerbot](https://t.me/thevcmusicplayerbot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/745e1891e4b55ad9364f9.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
